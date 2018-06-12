@@ -5,14 +5,11 @@ var Twitter = require('twitter');
 var Spotify = require('node-spotify-api');
 var request = require("request");
 var fs = require("fs");
+
 var spotify = new Spotify(keys.spotify);
 var client = new Twitter(keys.twitter);
 
-// function appendlog(d){
-//     fs.appendFile("log.txt",d,(error)=>{
-//         if(error) throw error;
-//     });
-// }
+
 // overwrite console.log function
 console.log = function(d) {
     d = d + '\n';

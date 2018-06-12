@@ -1,0 +1,205 @@
+[34m
+spotify-this-song "hey jude"[39m
+
+----------------
+[32mArtist: [39mThe Beatles
+[32mSong's name: [39mHey Jude - Remastered 2015
+[32mPreview url: [39mnull
+[32mAlbum: [39m1 (Remastered)
+----------------
+[32mArtist: [39mWilson Pickett
+[32mSong's name: [39mHey Jude
+[32mPreview url: [39mhttps://p.scdn.co/mp3-preview/f9bd7992e08e00c43e21ceeb3f06568cfd961913?cid=3b4245ec1b384e15aaae3b8b52746602
+[32mAlbum: [39mHey Jude
+----------------
+[32mArtist: [39mThe Beatles
+[32mSong's name: [39mHey Jude
+[32mPreview url: [39mnull
+[32mAlbum: [39mLove
+[34m
+spotify-this-song "The Sign"[39m
+
+----------------
+[32mArtist: [39mTy Dolla $ign
+[32mSong's name: [39mOr Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+[32mPreview url: [39mhttps://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=3b4245ec1b384e15aaae3b8b52746602
+[32mAlbum: [39mOr Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+----------------
+[32mArtist: [39mTy Dolla $ign
+[32mSong's name: [39mLove U Better (feat. Lil Wayne & The-Dream)
+[32mPreview url: [39mhttps://p.scdn.co/mp3-preview/8917010fb6f1883ff95e85abf35428d98904f29b?cid=3b4245ec1b384e15aaae3b8b52746602
+[32mAlbum: [39mBeach House 3
+----------------
+[32mArtist: [39mHarry Styles
+[32mSong's name: [39mSign of the Times
+[32mPreview url: [39mhttps://p.scdn.co/mp3-preview/af237206f611b722f48620ece049aff3b8650e77?cid=3b4245ec1b384e15aaae3b8b52746602
+[32mAlbum: [39mHarry Styles
+
+[34mmy-tweets[39m
+
+[32mMon 11 Jun 2018 17:15:18[39m
+"IBM  and the U.S. Department of Energy’s Oak Ridge National Laboratory (ORNL) today unveiled Summit, the departmen… https://t.co/l8SZTG23HY
+Working on UT LIRI bot homework, having fun!
+[32mMon 11 Jun 2018 17:09:36[39m
+[32mMon 11 Jun 2018 17:08:57[39m
+Happy coding! My first day at Twitter!
+[34m
+movie-this "Mr. Nobody"[39m
+
+http://www.omdbapi.com/?apikey=trilogy&t=Mr. Nobody
+[32mTitle: [39mMr. Nobody
+[32mYear: [39m2009
+[32mIMDB Rating: [39m7.9
+[32mRotten Tomatoes Rating: [39m66%
+[32mCountry: [39mBelgium, Germany, Canada, France, USA, UK
+[32mLanguage: [39mEnglish, Mohawk
+[32mPlot: [39mA boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+[32mActors: [39mJared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+[34m
+movie-this "Frozen"[39m
+
+http://www.omdbapi.com/?apikey=trilogy&t=Frozen
+[32mTitle: [39mFrozen
+[32mYear: [39m2013
+[32mIMDB Rating: [39m7.5
+[32mRotten Tomatoes Rating: [39m90%
+[32mCountry: [39mUSA
+[32mLanguage: [39mEnglish, Norwegian
+[32mPlot: [39mWhen the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+[32mActors: [39mKristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+
+[34mdo-what-it-says[39m
+
+[34m
+spotify-this-song ""I Want it That Way""[39m
+
+----------------
+[32mArtist: [39mBackstreet Boys
+[32mSong's name: [39mI Want It That Way
+[32mPreview url: [39mhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3b4245ec1b384e15aaae3b8b52746602
+[32mAlbum: [39mThe Hits--Chapter One
+----------------
+[32mArtist: [39mBackstreet Boys
+[32mSong's name: [39mI Want It That Way
+[32mPreview url: [39mhttps://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=3b4245ec1b384e15aaae3b8b52746602
+[32mAlbum: [39mMillennium
+----------------
+[32mArtist: [39mBackstreet Boys
+[32mSong's name: [39mI Want It That Way
+[32mPreview url: [39mhttps://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=3b4245ec1b384e15aaae3b8b52746602
+[32mAlbum: [39mThe Essential Backstreet Boys
+
+[34mdo-what-it-says[39m
+
+[34m
+spotify-this-song "I Want it That Way""[39m
+
+----------------
+[32mArtist: [39mBackstreet Boys
+[32mSong's name: [39mI Want It That Way
+[32mPreview url: [39mhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3b4245ec1b384e15aaae3b8b52746602
+[32mAlbum: [39mThe Hits--Chapter One
+----------------
+[32mArtist: [39mBackstreet Boys
+[32mSong's name: [39mI Want It That Way
+[32mPreview url: [39mhttps://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=3b4245ec1b384e15aaae3b8b52746602
+[32mAlbum: [39mMillennium
+----------------
+[32mArtist: [39mBackstreet Boys
+[32mSong's name: [39mI Want It That Way
+[32mPreview url: [39mhttps://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=3b4245ec1b384e15aaae3b8b52746602
+[32mAlbum: [39mThe Essential Backstreet Boys
+
+[34mdo-what-it-says[39m
+
+[34m
+spotify-this-song ""I Want it That Way""[39m
+
+----------------
+[32mArtist: [39mBackstreet Boys
+[32mSong's name: [39mI Want It That Way
+[32mPreview url: [39mhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3b4245ec1b384e15aaae3b8b52746602
+[32mAlbum: [39mThe Hits--Chapter One
+----------------
+[32mArtist: [39mBackstreet Boys
+[32mSong's name: [39mI Want It That Way
+[32mPreview url: [39mhttps://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=3b4245ec1b384e15aaae3b8b52746602
+[32mAlbum: [39mMillennium
+----------------
+[32mArtist: [39mBackstreet Boys
+[32mSong's name: [39mI Want It That Way
+[32mPreview url: [39mhttps://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=3b4245ec1b384e15aaae3b8b52746602
+[32mAlbum: [39mThe Essential Backstreet Boys
+
+[34mdo-what-it-says[39m
+
+[34m
+spotify-this-song "I Want it That Way"[39m
+
+----------------
+[32mArtist: [39mBackstreet Boys
+[32mSong's name: [39mI Want It That Way
+[32mPreview url: [39mhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3b4245ec1b384e15aaae3b8b52746602
+[32mAlbum: [39mThe Hits--Chapter One
+----------------
+[32mArtist: [39mBackstreet Boys
+[32mSong's name: [39mI Want It That Way
+[32mPreview url: [39mhttps://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=3b4245ec1b384e15aaae3b8b52746602
+[32mAlbum: [39mMillennium
+----------------
+[32mArtist: [39mBackstreet Boys
+[32mSong's name: [39mI Want It That Way
+[32mPreview url: [39mhttps://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=3b4245ec1b384e15aaae3b8b52746602
+[32mAlbum: [39mThe Essential Backstreet Boys
+[34m
+do-what-it-says[39m
+
+[34m
+spotify-this-song "I Want it That Way"[39m
+
+----------------
+[32mArtist: [39mBackstreet Boys
+[32mSong's name: [39mI Want It That Way
+[32mPreview url: [39mhttps://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=3b4245ec1b384e15aaae3b8b52746602
+[32mAlbum: [39mThe Hits--Chapter One
+----------------
+[32mArtist: [39mBackstreet Boys
+[32mSong's name: [39mI Want It That Way
+[32mPreview url: [39mhttps://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=3b4245ec1b384e15aaae3b8b52746602
+[32mAlbum: [39mMillennium
+----------------
+[32mSong's name: [39mI Want It That Way
+[32mArtist: [39mBackstreet Boys
+[32mPreview url: [39mhttps://p.scdn.co/mp3-preview/f9f504a705fcaaf2f24b004b629725451014ad6c?cid=3b4245ec1b384e15aaae3b8b52746602
+[32mAlbum: [39mThe Essential Backstreet Boys
+[34m
+movie-this "Frozen"[39m
+
+[32mTitle: [39mFrozen
+[32mYear: [39m2013
+[32mIMDB Rating: [39m7.5
+[32mRotten Tomatoes Rating: [39m90%
+[32mCountry: [39mUSA
+[32mLanguage: [39mEnglish, Norwegian
+[32mPlot: [39mWhen the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
+[32mActors: [39mKristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
+[34m
+movie-this "Mr. Nobody"[39m
+
+[32mTitle: [39mMr. Nobody
+[32mYear: [39m2009
+[32mIMDB Rating: [39m7.9
+[32mRotten Tomatoes Rating: [39m66%
+[32mCountry: [39mBelgium, Germany, Canada, France, USA, UK
+[32mLanguage: [39mEnglish, Mohawk
+[32mPlot: [39mA boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+[32mActors: [39mJared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+[34m
+my-tweets[39m
+
+[32mMon 11 Jun 2018 17:15:18[39m
+"IBM  and the U.S. Department of Energy’s Oak Ridge National Laboratory (ORNL) today unveiled Summit, the departmen… https://t.co/l8SZTG23HY
+[32mMon 11 Jun 2018 17:09:36[39m
+Working on UT LIRI bot homework, having fun!
+[32mMon 11 Jun 2018 17:08:57[39m
+Happy coding! My first day at Twitter!

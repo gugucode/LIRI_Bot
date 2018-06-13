@@ -70,7 +70,7 @@ Album: Love
 
 
 * **node liri.js movie-this \'\<movie name here\>\'**
-    * f the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+    * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
     * This will output the following information to your terminal/bash window:
 ```
 BasementOffice:LIRI_Bot$ node liri.js movie-this Frozen

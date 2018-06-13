@@ -25,7 +25,7 @@ TWITTER_ACCESS_TOKEN_KEY=your-access-token-key
 TWITTER_ACCESS_TOKEN_SECRET=your-twitter-access-token-secret
 ```
 
-#### How to use LIRI
+### How to use LIRI
 * **node liri.js my-tweets**
     * This will show your last 20 tweets and when they were created at in your terminal/bash window.
 
@@ -118,25 +118,17 @@ Album: The Essential Backstreet Boys
 ```
 
 
-## Built With  
+### Built With  
 
 * Javascript 
 * twitter, node-spotify-api, request, DotEnv and colors packages
 
 
-## Contributing
+### Contributing
 
 Please contact Erin at meiyuechang@gmail.com for details on our code of conduct, and the process for submitting pull requests to us.
 
-## Authors
+### Authors
 
 * **Erin Mei** - *Initial work* - [Portfolio](https://gugucode.github.io/mysite/)
 
-
-## License
-
-null
-
-## Acknowledgments
-
-null

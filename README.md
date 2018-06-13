@@ -43,7 +43,8 @@ Happy coding! My first day at Twitter!
 ```
 
 * node liri.js spotify-this-song '<song name here>'
-This will show the information about the song in your terminal/bash window
+* * If no song is provided then your program will default to "The Sign" by Ace of Base.
+* * This will show the information about the song in your terminal/bash window
 
 ```
 BasementOffice:LIRI_Bot$ node liri.js spotify-this-song "Hey Jude"
@@ -67,12 +68,11 @@ Preview url: null
 Album: Love
 ```
 
-If no song is provided then your program will default to "The Sign" by Ace of Base.
-
 
 * node liri.js movie-this '<movie name here>'
 
-This will output the following information to your terminal/bash window:
+* * If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
+* * This will output the following information to your terminal/bash window:
 ```
 BasementOffice:LIRI_Bot$ node liri.js movie-this Frozen
 
@@ -87,12 +87,11 @@ Language: English, Norwegian
 Plot: When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.
 Actors: Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad
 ```
-If the user doesn't type a movie in, the program will output data for the movie 'Mr. Nobody.'
 
 
 * node liri.js do-what-it-says
 
-LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
+* * LIRI will take the text inside of random.txt and then use it to call one of LIRI's commands.
 
 ```
 BasementOffice:LIRI_Bot$ node liri.js do-what-it-says

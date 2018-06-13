@@ -27,7 +27,7 @@ TWITTER_ACCESS_TOKEN_SECRET=your-twitter-access-token-secret
 
 #### How to use LIRI
 * node liri.js my-tweets
-This will show your last 20 tweets and when they were created at in your terminal/bash window.
+  * This will show your last 20 tweets and when they were created at in your terminal/bash window.
 
 ```
 BasementOffice:LIRI_Bot$ node liri.js my-tweets
